@@ -54,3 +54,9 @@ Players have access to some basic abilities:
 - In order to fill the whole world with color, each level must be completed.
 - There will be an introduction level that will present each mechanic with simple obstacles.
 - There will also be 5-6 other levels that will force the player to think creatively, using the various mechanics/colors that he/she collects throughout the levels.
+
+## Contributors
+- Julie Pierides
+- Kevin Tang
+- Brian Kalish
+- Nickolai Olsen
