@@ -7,13 +7,10 @@ The player, a fox with deer antlers, must utilize its power to take colors from 
 
 ## Environment Concept
 ### Multiple levels
-- Introduction level where the powers are introduced. Challenges require the user to use the specific power to complete the level. Two introductory levels with two different abilities in each level.
-
-![intro](https://github.com/juliepierides/PiratedIdentity/blob/master/intro.png)
-
-
+- Introduction levels: 
+	- The various powers are introduced. Challenges require the user to use the specific powers to complete the level. THere are two introductory levels with two different abilities in each level.
 - Increasing difficulty with each level.
-- After the introduction level, the later levels require the user to use multiple powers “at once” to complete the challenges. 
+- After the introduction level, the later levels require the user to use multiple powers at once to complete the challenges. 
 
 
 The environment will have a watercolor-inspired aesthetic. Much of the background will be black and white with splashes of watercolor that appear with the completion of certain goals.
@@ -24,7 +21,7 @@ The game contains no enemies apart from the environment in which the player can 
 The in-game world has always been in black and white and color is first introduced into this world with a mysterious phenomenon, where color rifts opened throughout the world.
 The player, a white fox with antlers, will distribute color throughout the world by absorbing color from the rifts and inserting colors into color rocks throughout the levels.
 
-
+![fox](https://github.com/juliepierides/Pigmentur/blob/master/pigmentur_fox.png)
 
 When all of the stones are filled within the level, color will return completely to that level.
 
