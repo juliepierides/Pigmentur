@@ -56,7 +56,7 @@ Players have access to some basic abilities:
 - There will also be 5-6 other levels that will force the player to think creatively, using the various mechanics/colors that he/she collects throughout the levels.
 
 ## Contributors
-- Julie Pierides
-- Kevin Tang
-- Brian Kalish
-- Nickolai Olsen
+- Julie Pierides : Art, Concept, and Design
+- Kevin Tang : Programmer
+- Brian Kalish : Animator
+- Nickolai Olsen : Level Designer
