@@ -21,7 +21,6 @@ The game contains no enemies apart from the environment in which the player can 
 The in-game world has always been in black and white and color is first introduced into this world with a mysterious phenomenon, where color rifts opened throughout the world.
 The player, a white fox with antlers, will distribute color throughout the world by absorbing color from the rifts and inserting colors into color rocks throughout the levels.
 
-![fox](https://github.com/juliepierides/Pigmentur/blob/master/pigmentur_fox.png)
 <p align="center">
   <img src="https://github.com/juliepierides/Pigmentur/blob/master/pigmentur_fox.png">
 </p>
