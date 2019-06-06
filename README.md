@@ -3,13 +3,13 @@
 Pigmentur is a 2-D platformer where the player must return color to a mostly black and white world.
 
 ## Game Concept
-Pigmentur is a 2-D platformer where the player must utilize the power to take colors from the environment to reach the end of the level. Different colors give the player different abilities that they must utilize to beat the level. Each level has a number of stones that must be reached and filled with the correct color in order to progress. The challenge of the game will come from both the platforming aspect and the puzzle aspect of reaching the stones with the correct colors.
+The player, a fox with deer antlers, must utilize its power to take colors from the environment to reach the end of the level. Different colors give the player different abilities that allow the fox to overcome various platforming challenges. Each level has a number of stones that must be reached and filled with the correct color in order to progress throughout the game, which also returns color to the surrounding environment. The challenge of the game will come from both the platforming aspect and the puzzle aspect of reaching the stones with the correct colors.
 
 ## Environment Concept
 ### Multiple levels
 - Introduction level where the powers are introduced. Challenges require the user to use the specific power to complete the level. Two introductory levels with two different abilities in each level.
 
-
+![intro](https://github.com/juliepierides/PiratedIdentity/blob/master/intro.png)
 
 
 - Increasing difficulty with each level.
