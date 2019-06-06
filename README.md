@@ -29,22 +29,22 @@ The player, a white fox with antlers, will distribute color throughout the world
 When all of the stones are filled within the level, color will return completely to that level.
 
 
-## Mechanics
+## Mechanics and Controls
 Players have access to some basic abilities:
-- Left and Right Movement
-- Jump
+- Left and Right Movement (left and right arrow keys)
+- Jump (Space)
 - Wall Slide
-- The player can absorb colors from their environment that allow them to use different abilities and will come with a visual component.
-	- Blue - Double Jump -> There will be a blue puff of air under the fox’s feet and the antlers will be flowing in the wind from blue tendrils of air.
+- The player can absorb colors (S key) from surrounding color rifts that allow them to use different abilities and will come with a visual component. 
+	- Blue - Double Jump (Space twice)-> There will be a blue puff of air under the fox’s feet and the antlers will be flowing in the wind from blue tendrils of air.
 
-	- Yellow - Dash -> The fox will turn into a beam of light and the antlers will be made of energy.
+	- Yellow - Dash (Space) -> The fox will turn into a beam of light and the antlers will be made of energy.
 
-	- Red - Glide -> The fox will be held up by birds and birds will perch in the antlers.
+	- Red - Glide (Hold Space while falling) -> The fox will be held up by birds and birds will perch in the antlers.
 
-	- Green - Wall Stick and Wall Jump -> The fox will be held onto the wall and launched by vines and the antlers will be vines.
+	- Green - Wall Stick and Wall Jump (Space while on a wall)-> The fox will be held onto the wall and launched by vines and the antlers will be vines.
 
-- The player starts out with no color, can absorb a color into their body, and can also store an extra color as a spirit that follows them. The spirits is unlocked later in the game and not available for the player in the first three levels. 
-- The player can swap their body’s color with their stored color in order to quickly use a different ability.
+- The player starts out with no color, can absorb a color into their body, and can also store an extra color as a spirit (a butterfly) that follows them. The spirit is unlocked later in the game and not available for the player in the first three levels. 
+- The player can swap their body’s color with their stored color (E key) in order to quickly use a different ability.
 - The player will not have a set number of lives and will return to the last stone they they injected if they fail to complete a level (e.g. fall down a bottomless pit). If there is not a stone that the player has injected, they will begin at the start of the level.
 
 ## Progression
@@ -54,21 +54,3 @@ Players have access to some basic abilities:
 - In order to fill the whole world with color, each level must be completed.
 - There will be an introduction level that will present each mechanic with simple obstacles.
 - There will also be 5-6 other levels that will force the player to think creatively, using the various mechanics/colors that he/she collects throughout the levels.
-
-
-Alpha 4/7
-
-Controls:
--A and D or left and right arrrow keys for left and right
--Space for jump
--S to absorb a color from the color rift
--Blue (Double Jump)
-	-Space twice
--Yellow (Dash)
-	-Space
--Red (Glide)
-	-Hold Space while you fall
--Green (Wall Jump)
-	-Use Space to jump from wall to wall
-
--E to swap colors between fairy and fox
