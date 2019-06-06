@@ -22,6 +22,9 @@ The in-game world has always been in black and white and color is first introduc
 The player, a white fox with antlers, will distribute color throughout the world by absorbing color from the rifts and inserting colors into color rocks throughout the levels.
 
 ![fox](https://github.com/juliepierides/Pigmentur/blob/master/pigmentur_fox.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/juliepierides/Pigmentur/blob/master/pigmentur_fox.png">
+</p>
 
 When all of the stones are filled within the level, color will return completely to that level.
 
